@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @mariohpintor
-- 👀 I’m interested in machine learning, pure maths, topology data analysis and quantum computing
-- 🌱 I’m currently learning the basics of machine learning
+Hola, soy Mario, casi licenciado en matemáticas, aprendiendo data science y machine learning.
 
 <!---
 mariohpintor/mariohpintor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
